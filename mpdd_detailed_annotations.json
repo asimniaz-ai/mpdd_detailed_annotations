@@ -1,0 +1,4702 @@
+{
+    "connector": [
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 18879,
+            "coordinates": [
+                {
+                    "min_row": 470,
+                    "min_col": 767,
+                    "max_row": 675,
+                    "max_col": 891
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 18879 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 17770,
+            "coordinates": [
+                {
+                    "min_row": 485,
+                    "min_col": 749,
+                    "max_row": 682,
+                    "max_col": 873
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 17770 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "002.png",
+            "num_anomalies": 1,
+            "size_anomalies": 19904,
+            "coordinates": [
+                {
+                    "min_row": 474,
+                    "min_col": 662,
+                    "max_row": 694,
+                    "max_col": 790
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 002.png. Number of anomalies: 1, Size of anomalies: 19904 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 14554,
+            "coordinates": [
+                {
+                    "min_row": 427,
+                    "min_col": 622,
+                    "max_row": 609,
+                    "max_col": 727
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 14554 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "000.png",
+            "num_anomalies": 1,
+            "size_anomalies": 20368,
+            "coordinates": [
+                {
+                    "min_row": 412,
+                    "min_col": 525,
+                    "max_row": 646,
+                    "max_col": 650
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 000.png. Number of anomalies: 1, Size of anomalies: 20368 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "003.png",
+            "num_anomalies": 1,
+            "size_anomalies": 18814,
+            "coordinates": [
+                {
+                    "min_row": 485,
+                    "min_col": 726,
+                    "max_row": 695,
+                    "max_col": 845
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 003.png. Number of anomalies: 1, Size of anomalies: 18814 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 16669,
+            "coordinates": [
+                {
+                    "min_row": 477,
+                    "min_col": 779,
+                    "max_row": 678,
+                    "max_col": 893
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 16669 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "008.png",
+            "num_anomalies": 1,
+            "size_anomalies": 12998,
+            "coordinates": [
+                {
+                    "min_row": 427,
+                    "min_col": 495,
+                    "max_row": 612,
+                    "max_col": 591
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 008.png. Number of anomalies: 1, Size of anomalies: 12998 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "013.png",
+            "num_anomalies": 1,
+            "size_anomalies": 19959,
+            "coordinates": [
+                {
+                    "min_row": 494,
+                    "min_col": 307,
+                    "max_row": 703,
+                    "max_col": 440
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 013.png. Number of anomalies: 1, Size of anomalies: 19959 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "001.png",
+            "num_anomalies": 1,
+            "size_anomalies": 19005,
+            "coordinates": [
+                {
+                    "min_row": 482,
+                    "min_col": 711,
+                    "max_row": 686,
+                    "max_col": 829
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 001.png. Number of anomalies: 1, Size of anomalies: 19005 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "012.png",
+            "num_anomalies": 1,
+            "size_anomalies": 21959,
+            "coordinates": [
+                {
+                    "min_row": 495,
+                    "min_col": 305,
+                    "max_row": 695,
+                    "max_col": 445
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 012.png. Number of anomalies: 1, Size of anomalies: 21959 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 14423,
+            "coordinates": [
+                {
+                    "min_row": 426,
+                    "min_col": 589,
+                    "max_row": 614,
+                    "max_col": 685
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 14423 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "011.png",
+            "num_anomalies": 1,
+            "size_anomalies": 17631,
+            "coordinates": [
+                {
+                    "min_row": 498,
+                    "min_col": 305,
+                    "max_row": 697,
+                    "max_col": 426
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 011.png. Number of anomalies: 1, Size of anomalies: 17631 pixels."
+        },
+        {
+            "class": "connector",
+            "anomaly": "parts_mismatch",
+            "image": "010.png",
+            "num_anomalies": 1,
+            "size_anomalies": 18740,
+            "coordinates": [
+                {
+                    "min_row": 491,
+                    "min_col": 305,
+                    "max_row": 701,
+                    "max_col": 427
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in connector images. Image name: 010.png. Number of anomalies: 1, Size of anomalies: 18740 pixels."
+        }
+    ],
+    "tubes": [
+        {
+            "class": "tubes",
+            "anomaly": "anomalous",
+            "image": "061.png",
+            "num_anomalies": 1,
+            "size_anomalies": 9407,
+            "coordinates": [
+                {
+                    "min_row": 256,
+                    "min_col": 589,
+                    "max_row": 384,
+                    "max_col": 746
+                }
+            ],
+            "description": "Anomaly of type 'anomalous' found in tubes images. Image name: 061.png. Number of anomalies: 1, Size of anomalies: 9407 pixels."
+        },
+        {
+            "class": "tubes",
+            "anomaly": "anomalous",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 12583,
+            "coordinates": [
+                {
+                    "min_row": 382,
+                    "min_col": 506,
+                    "max_row": 496,
+                    "max_col": 666
+                }
+            ],
+            "description": "Anomaly of type 'anomalous' found in tubes images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 12583 pixels."
+        },
+        {
+            "class": "tubes",
+            "anomaly": "anomalous",
+            "image": "056.png",
+            "num_anomalies": 1,
+            "size_anomalies": 10437,
+            "coordinates": [
+                {
+                    "min_row": 384,
+                    "min_col": 331,
+…            "coordinates": [
+                {
+                    "min_row": 229,
+                    "min_col": 412,
+                    "max_row": 352,
+                    "max_col": 463
+                },
+                {
+                    "min_row": 237,
+                    "min_col": 426,
+                    "max_row": 244,
+                    "max_col": 431
+                },
+                {
+                    "min_row": 242,
+                    "min_col": 460,
+                    "max_row": 246,
+                    "max_col": 464
+                },
+                {
+                    "min_row": 245,
+                    "min_col": 429,
+                    "max_row": 249,
+                    "max_col": 434
+                },
+                {
+                    "min_row": 245,
+                    "min_col": 446,
+                    "max_row": 249,
+                    "max_col": 450
+                },
+                {
+                    "min_row": 245,
+                    "min_col": 475,
+                    "max_row": 249,
+                    "max_col": 479
+                },
+                {
+                    "min_row": 252,
+                    "min_col": 462,
+                    "max_row": 256,
+                    "max_col": 466
+                },
+                {
+                    "min_row": 254,
+                    "min_col": 436,
+                    "max_row": 258,
+                    "max_col": 440
+                },
+                {
+                    "min_row": 275,
+                    "min_col": 478,
+                    "max_row": 279,
+                    "max_col": 482
+                },
+                {
+                    "min_row": 279,
+                    "min_col": 491,
+                    "max_row": 283,
+                    "max_col": 496
+                },
+                {
+                    "min_row": 311,
+                    "min_col": 420,
+                    "max_row": 315,
+                    "max_col": 424
+                },
+                {
+                    "min_row": 320,
+                    "min_col": 419,
+                    "max_row": 324,
+                    "max_col": 423
+                },
+                {
+                    "min_row": 341,
+                    "min_col": 409,
+                    "max_row": 345,
+                    "max_col": 413
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 002.png. Number of anomalies: 13, Size of anomalies: 1104 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1085,
+            "coordinates": [
+                {
+                    "min_row": 230,
+                    "min_col": 446,
+                    "max_row": 350,
+                    "max_col": 498
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 1085 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "003.png",
+            "num_anomalies": 2,
+            "size_anomalies": 309,
+            "coordinates": [
+                {
+                    "min_row": 235,
+                    "min_col": 415,
+                    "max_row": 294,
+                    "max_col": 430
+                },
+                {
+                    "min_row": 284,
+                    "min_col": 432,
+                    "max_row": 346,
+                    "max_col": 447
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 003.png. Number of anomalies: 2, Size of anomalies: 309 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "000.png",
+            "num_anomalies": 1,
+            "size_anomalies": 933,
+            "coordinates": [
+                {
+                    "min_row": 226,
+                    "min_col": 443,
+                    "max_row": 343,
+                    "max_col": 483
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 000.png. Number of anomalies: 1, Size of anomalies: 933 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "014.png",
+            "num_anomalies": 6,
+            "size_anomalies": 1154,
+            "coordinates": [
+                {
+                    "min_row": 241,
+                    "min_col": 476,
+                    "max_row": 357,
+                    "max_col": 526
+                },
+                {
+                    "min_row": 254,
+                    "min_col": 510,
+                    "max_row": 259,
+                    "max_col": 515
+                },
+                {
+                    "min_row": 261,
+                    "min_col": 484,
+                    "max_row": 265,
+                    "max_col": 488
+                },
+                {
+                    "min_row": 261,
+                    "min_col": 525,
+                    "max_row": 266,
+                    "max_col": 530
+                },
+                {
+                    "min_row": 264,
+                    "min_col": 499,
+                    "max_row": 269,
+                    "max_col": 503
+                },
+                {
+                    "min_row": 286,
+                    "min_col": 556,
+                    "max_row": 291,
+                    "max_col": 561
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 014.png. Number of anomalies: 6, Size of anomalies: 1154 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "008.png",
+            "num_anomalies": 1,
+            "size_anomalies": 855,
+            "coordinates": [
+                {
+                    "min_row": 230,
+                    "min_col": 450,
+                    "max_row": 346,
+                    "max_col": 496
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 008.png. Number of anomalies: 1, Size of anomalies: 855 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 250,
+            "coordinates": [
+                {
+                    "min_row": 241,
+                    "min_col": 467,
+                    "max_row": 349,
+                    "max_col": 487
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 250 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "013.png",
+            "num_anomalies": 1,
+            "size_anomalies": 388,
+            "coordinates": [
+                {
+                    "min_row": 244,
+                    "min_col": 461,
+                    "max_row": 350,
+                    "max_col": 490
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 013.png. Number of anomalies: 1, Size of anomalies: 388 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "001.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1047,
+            "coordinates": [
+                {
+                    "min_row": 224,
+                    "min_col": 428,
+                    "max_row": 344,
+                    "max_col": 476
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 001.png. Number of anomalies: 1, Size of anomalies: 1047 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1070,
+            "coordinates": [
+                {
+                    "min_row": 227,
+                    "min_col": 446,
+                    "max_row": 345,
+                    "max_col": 496
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 1070 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "016.png",
+            "num_anomalies": 2,
+            "size_anomalies": 893,
+            "coordinates": [
+                {
+                    "min_row": 240,
+                    "min_col": 452,
+                    "max_row": 351,
+                    "max_col": 488
+                },
+                {
+                    "min_row": 259,
+                    "min_col": 469,
+                    "max_row": 264,
+                    "max_col": 473
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 016.png. Number of anomalies: 2, Size of anomalies: 893 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "012.png",
+            "num_anomalies": 1,
+            "size_anomalies": 376,
+            "coordinates": [
+                {
+                    "min_row": 237,
+                    "min_col": 467,
+                    "max_row": 346,
+                    "max_col": 498
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 012.png. Number of anomalies: 1, Size of anomalies: 376 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "010.png",
+            "num_anomalies": 3,
+            "size_anomalies": 862,
+            "coordinates": [
+                {
+                    "min_row": 233,
+                    "min_col": 444,
+                    "max_row": 306,
+                    "max_col": 481
+                },
+                {
+                    "min_row": 265,
+                    "min_col": 446,
+                    "max_row": 353,
+                    "max_col": 490
+                },
+                {
+                    "min_row": 340,
+                    "min_col": 488,
+                    "max_row": 345,
+                    "max_col": 493
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 010.png. Number of anomalies: 3, Size of anomalies: 862 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "011.png",
+            "num_anomalies": 14,
+            "size_anomalies": 1095,
+            "coordinates": [
+                {
+                    "min_row": 232,
+                    "min_col": 447,
+                    "max_row": 354,
+                    "max_col": 494
+                },
+                {
+                    "min_row": 244,
+                    "min_col": 493,
+                    "max_row": 248,
+                    "max_col": 497
+                },
+                {
+                    "min_row": 247,
+                    "min_col": 506,
+                    "max_row": 252,
+                    "max_col": 511
+                },
+                {
+                    "min_row": 252,
+                    "min_col": 455,
+                    "max_row": 258,
+                    "max_col": 459
+                },
+                {
+                    "min_row": 253,
+                    "min_col": 494,
+                    "max_row": 258,
+                    "max_col": 499
+                },
+                {
+                    "min_row": 256,
+                    "min_col": 470,
+                    "max_row": 262,
+                    "max_col": 475
+                },
+                {
+                    "min_row": 277,
+                    "min_col": 510,
+                    "max_row": 281,
+                    "max_col": 515
+                },
+                {
+                    "min_row": 279,
+                    "min_col": 523,
+                    "max_row": 285,
+                    "max_col": 527
+                },
+                {
+                    "min_row": 292,
+                    "min_col": 503,
+                    "max_row": 296,
+                    "max_col": 507
+                },
+                {
+                    "min_row": 295,
+                    "min_col": 509,
+                    "max_row": 298,
+                    "max_col": 513
+                },
+                {
+                    "min_row": 299,
+                    "min_col": 504,
+                    "max_row": 303,
+                    "max_col": 508
+                },
+                {
+                    "min_row": 315,
+                    "min_col": 454,
+                    "max_row": 318,
+                    "max_col": 459
+                },
+                {
+                    "min_row": 320,
+                    "min_col": 491,
+                    "max_row": 329,
+                    "max_col": 498
+                },
+                {
+                    "min_row": 322,
+                    "min_col": 454,
+                    "max_row": 327,
+                    "max_col": 458
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 011.png. Number of anomalies: 14, Size of anomalies: 1095 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "scratches",
+            "image": "015.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1000,
+            "coordinates": [
+                {
+                    "min_row": 239,
+                    "min_col": 482,
+                    "max_row": 353,
+                    "max_col": 529
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_white images. Image name: 015.png. Number of anomalies: 1, Size of anomalies: 1000 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "004.png",
+            "num_anomalies": 2,
+            "size_anomalies": 227,
+            "coordinates": [
+                {
+                    "min_row": 272,
+                    "min_col": 518,
+                    "max_row": 288,
+                    "max_col": 528
+                },
+                {
+                    "min_row": 618,
+                    "min_col": 519,
+                    "max_row": 631,
+                    "max_col": 528
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 004.png. Number of anomalies: 2, Size of anomalies: 227 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "006.png",
+            "num_anomalies": 2,
+            "size_anomalies": 307,
+            "coordinates": [
+                {
+                    "min_row": 298,
+                    "min_col": 533,
+                    "max_row": 316,
+                    "max_col": 546
+                },
+                {
+                    "min_row": 648,
+                    "min_col": 531,
+                    "max_row": 662,
+                    "max_col": 544
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 006.png. Number of anomalies: 2, Size of anomalies: 307 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "009.png",
+            "num_anomalies": 2,
+            "size_anomalies": 413,
+            "coordinates": [
+                {
+                    "min_row": 277,
+                    "min_col": 521,
+                    "max_row": 295,
+                    "max_col": 537
+                },
+                {
+                    "min_row": 633,
+                    "min_col": 516,
+                    "max_row": 650,
+                    "max_col": 532
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 009.png. Number of anomalies: 2, Size of anomalies: 413 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "002.png",
+            "num_anomalies": 2,
+            "size_anomalies": 360,
+            "coordinates": [
+                {
+                    "min_row": 355,
+                    "min_col": 468,
+                    "max_row": 374,
+                    "max_col": 480
+                },
+                {
+                    "min_row": 699,
+                    "min_col": 457,
+                    "max_row": 715,
+                    "max_col": 471
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 002.png. Number of anomalies: 2, Size of anomalies: 360 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "000.png",
+            "num_anomalies": 2,
+            "size_anomalies": 418,
+            "coordinates": [
+                {
+                    "min_row": 342,
+                    "min_col": 525,
+                    "max_row": 361,
+                    "max_col": 541
+                },
+                {
+                    "min_row": 708,
+                    "min_col": 514,
+                    "max_row": 723,
+                    "max_col": 530
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 000.png. Number of anomalies: 2, Size of anomalies: 418 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "003.png",
+            "num_anomalies": 2,
+            "size_anomalies": 261,
+            "coordinates": [
+                {
+                    "min_row": 271,
+                    "min_col": 580,
+                    "max_row": 288,
+                    "max_col": 591
+                },
+                {
+                    "min_row": 620,
+                    "min_col": 576,
+                    "max_row": 631,
+                    "max_col": 586
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 003.png. Number of anomalies: 2, Size of anomalies: 261 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "008.png",
+            "num_anomalies": 2,
+            "size_anomalies": 618,
+            "coordinates": [
+                {
+                    "min_row": 278,
+                    "min_col": 489,
+                    "max_row": 300,
+                    "max_col": 516
+                },
+                {
+                    "min_row": 633,
+                    "min_col": 475,
+                    "max_row": 649,
+                    "max_col": 492
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 008.png. Number of anomalies: 2, Size of anomalies: 618 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "005.png",
+            "num_anomalies": 2,
+            "size_anomalies": 309,
+            "coordinates": [
+                {
+                    "min_row": 270,
+                    "min_col": 488,
+                    "max_row": 287,
+                    "max_col": 499
+                },
+                {
+                    "min_row": 616,
+                    "min_col": 478,
+                    "max_row": 633,
+                    "max_col": 491
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 005.png. Number of anomalies: 2, Size of anomalies: 309 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "001.png",
+            "num_anomalies": 2,
+            "size_anomalies": 338,
+            "coordinates": [
+                {
+                    "min_row": 350,
+                    "min_col": 515,
+                    "max_row": 369,
+                    "max_col": 528
+                },
+                {
+                    "min_row": 701,
+                    "min_col": 504,
+                    "max_row": 716,
+                    "max_col": 518
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 001.png. Number of anomalies: 2, Size of anomalies: 338 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "007.png",
+            "num_anomalies": 2,
+            "size_anomalies": 387,
+            "coordinates": [
+                {
+                    "min_row": 279,
+                    "min_col": 489,
+                    "max_row": 298,
+                    "max_col": 504
+                },
+                {
+                    "min_row": 633,
+                    "min_col": 475,
+                    "max_row": 649,
+                    "max_col": 489
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 007.png. Number of anomalies: 2, Size of anomalies: 387 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "012.png",
+            "num_anomalies": 2,
+            "size_anomalies": 473,
+            "coordinates": [
+                {
+                    "min_row": 296,
+                    "min_col": 564,
+                    "max_row": 322,
+                    "max_col": 578
+                },
+                {
+                    "min_row": 656,
+                    "min_col": 559,
+                    "max_row": 677,
+                    "max_col": 573
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 012.png. Number of anomalies: 2, Size of anomalies: 473 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "010.png",
+            "num_anomalies": 2,
+            "size_anomalies": 326,
+            "coordinates": [
+                {
+                    "min_row": 288,
+                    "min_col": 478,
+                    "max_row": 305,
+                    "max_col": 491
+                },
+                {
+                    "min_row": 638,
+                    "min_col": 462,
+                    "max_row": 653,
+                    "max_col": 477
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 010.png. Number of anomalies: 2, Size of anomalies: 326 pixels."
+        },
+        {
+            "class": "bracket_white",
+            "anomaly": "defective_painting",
+            "image": "011.png",
+            "num_anomalies": 2,
+            "size_anomalies": 347,
+            "coordinates": [
+                {
+                    "min_row": 288,
+                    "min_col": 475,
+                    "max_row": 308,
+                    "max_col": 487
+                },
+                {
+                    "min_row": 642,
+                    "min_col": 465,
+                    "max_row": 657,
+                    "max_col": 478
+                }
+            ],
+            "description": "Anomaly of type 'defective_painting' found in bracket_white images. Image name: 011.png. Number of anomalies: 2, Size of anomalies: 347 pixels."
+        }
+    ],
+    "bracket_black": [
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 771,
+            "coordinates": [
+                {
+                    "min_row": 542,
+                    "min_col": 275,
+                    "max_row": 573,
+                    "max_col": 314
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 771 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1178,
+            "coordinates": [
+                {
+                    "min_row": 546,
+                    "min_col": 367,
+                    "max_row": 583,
+                    "max_col": 407
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 1178 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "002.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1534,
+            "coordinates": [
+                {
+                    "min_row": 498,
+                    "min_col": 305,
+                    "max_row": 545,
+                    "max_col": 342
+                },
+                {
+                    "min_row": 562,
+                    "min_col": 298,
+                    "max_row": 578,
+                    "max_col": 321
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 002.png. Number of anomalies: 2, Size of anomalies: 1534 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1166,
+            "coordinates": [
+                {
+                    "min_row": 572,
+                    "min_col": 466,
+                    "max_row": 609,
+                    "max_col": 512
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 1166 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "000.png",
+            "num_anomalies": 3,
+            "size_anomalies": 1794,
+            "coordinates": [
+                {
+                    "min_row": 437,
+                    "min_col": 634,
+                    "max_row": 480,
+                    "max_col": 692
+                },
+                {
+                    "min_row": 484,
+                    "min_col": 651,
+                    "max_row": 496,
+                    "max_col": 668
+                },
+                {
+                    "min_row": 498,
+                    "min_col": 653,
+                    "max_row": 514,
+                    "max_col": 675
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 000.png. Number of anomalies: 3, Size of anomalies: 1794 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "003.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1075,
+            "coordinates": [
+                {
+                    "min_row": 524,
+                    "min_col": 255,
+                    "max_row": 560,
+                    "max_col": 297
+                },
+                {
+                    "min_row": 583,
+                    "min_col": 244,
+                    "max_row": 594,
+                    "max_col": 261
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 003.png. Number of anomalies: 2, Size of anomalies: 1075 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "008.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1778,
+            "coordinates": [
+                {
+                    "min_row": 546,
+                    "min_col": 566,
+                    "max_row": 584,
+                    "max_col": 619
+                },
+                {
+                    "min_row": 603,
+                    "min_col": 583,
+                    "max_row": 624,
+                    "max_col": 611
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 008.png. Number of anomalies: 2, Size of anomalies: 1778 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "005.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1577,
+            "coordinates": [
+                {
+                    "min_row": 547,
+                    "min_col": 305,
+                    "max_row": 581,
+                    "max_col": 358
+                },
+                {
+                    "min_row": 604,
+                    "min_col": 295,
+                    "max_row": 620,
+                    "max_col": 315
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 005.png. Number of anomalies: 2, Size of anomalies: 1577 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "001.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1716,
+            "coordinates": [
+                {
+                    "min_row": 478,
+                    "min_col": 400,
+                    "max_row": 527,
+                    "max_col": 442
+                },
+                {
+                    "min_row": 542,
+                    "min_col": 400,
+                    "max_row": 557,
+                    "max_col": 425
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 001.png. Number of anomalies: 2, Size of anomalies: 1716 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "007.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1561,
+            "coordinates": [
+                {
+                    "min_row": 550,
+                    "min_col": 488,
+                    "max_row": 584,
+                    "max_col": 545
+                },
+                {
+                    "min_row": 610,
+                    "min_col": 497,
+                    "max_row": 627,
+                    "max_col": 518
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 007.png. Number of anomalies: 2, Size of anomalies: 1561 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "010.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1493,
+            "coordinates": [
+                {
+                    "min_row": 419,
+                    "min_col": 595,
+                    "max_row": 460,
+                    "max_col": 645
+                },
+                {
+                    "min_row": 479,
+                    "min_col": 610,
+                    "max_row": 492,
+                    "max_col": 632
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 010.png. Number of anomalies: 2, Size of anomalies: 1493 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "hole",
+            "image": "011.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1739,
+            "coordinates": [
+                {
+                    "min_row": 386,
+                    "min_col": 582,
+                    "max_row": 429,
+                    "max_col": 640
+                },
+                {
+                    "min_row": 450,
+                    "min_col": 597,
+                    "max_row": 465,
+                    "max_col": 621
+                }
+            ],
+            "description": "Anomaly of type 'hole' found in bracket_black images. Image name: 011.png. Number of anomalies: 2, Size of anomalies: 1739 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "004.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1970,
+            "coordinates": [
+                {
+                    "min_row": 444,
+                    "min_col": 506,
+                    "max_row": 460,
+                    "max_col": 536
+                },
+                {
+                    "min_row": 461,
+                    "min_col": 511,
+                    "max_row": 482,
+                    "max_col": 579
+                },
+                {
+                    "min_row": 481,
+                    "min_col": 501,
+                    "max_row": 495,
+                    "max_col": 517
+                },
+                {
+                    "min_row": 516,
+                    "min_col": 507,
+                    "max_row": 533,
+                    "max_col": 536
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 004.png. Number of anomalies: 4, Size of anomalies: 1970 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "033.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1187,
+            "coordinates": [
+                {
+                    "min_row": 194,
+                    "min_col": 398,
+                    "max_row": 282,
+                    "max_col": 427
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 033.png. Number of anomalies: 1, Size of anomalies: 1187 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "026.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1373,
+            "coordinates": [
+                {
+                    "min_row": 172,
+                    "min_col": 537,
+                    "max_row": 254,
+                    "max_col": 573
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 026.png. Number of anomalies: 1, Size of anomalies: 1373 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "023.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1737,
+            "coordinates": [
+                {
+                    "min_row": 172,
+                    "min_col": 518,
+                    "max_row": 254,
+                    "max_col": 561
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 023.png. Number of anomalies: 1, Size of anomalies: 1737 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "019.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1727,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 512,
+                    "max_row": 253,
+                    "max_col": 559
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 019.png. Number of anomalies: 1, Size of anomalies: 1727 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "029.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1408,
+            "coordinates": [
+                {
+                    "min_row": 166,
+                    "min_col": 550,
+                    "max_row": 249,
+                    "max_col": 585
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 029.png. Number of anomalies: 1, Size of anomalies: 1408 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "006.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1513,
+            "coordinates": [
+                {
+                    "min_row": 441,
+                    "min_col": 469,
+                    "max_row": 456,
+                    "max_col": 493
+                },
+                {
+                    "min_row": 458,
+                    "min_col": 469,
+                    "max_row": 477,
+                    "max_col": 530
+                },
+                {
+                    "min_row": 478,
+                    "min_col": 461,
+                    "max_row": 494,
+                    "max_col": 475
+                },
+                {
+                    "min_row": 513,
+                    "min_col": 458,
+                    "max_row": 527,
+                    "max_col": 481
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 006.png. Number of anomalies: 4, Size of anomalies: 1513 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "002.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1850,
+            "coordinates": [
+                {
+                    "min_row": 451,
+                    "min_col": 531,
+                    "max_row": 466,
+                    "max_col": 557
+                },
+                {
+                    "min_row": 468,
+                    "min_col": 535,
+                    "max_row": 488,
+                    "max_col": 602
+                },
+                {
+                    "min_row": 486,
+                    "min_col": 530,
+                    "max_row": 505,
+                    "max_col": 548
+                },
+                {
+                    "min_row": 522,
+                    "min_col": 540,
+                    "max_row": 539,
+                    "max_col": 568
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 002.png. Number of anomalies: 4, Size of anomalies: 1850 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "009.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1325,
+            "coordinates": [
+                {
+                    "min_row": 448,
+                    "min_col": 411,
+                    "max_row": 463,
+                    "max_col": 432
+                },
+                {
+                    "min_row": 465,
+                    "min_col": 408,
+                    "max_row": 483,
+                    "max_col": 461
+                },
+                {
+                    "min_row": 483,
+                    "min_col": 402,
+                    "max_row": 500,
+                    "max_col": 412
+                },
+                {
+                    "min_row": 517,
+                    "min_col": 396,
+                    "max_row": 533,
+                    "max_col": 419
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 009.png. Number of anomalies: 4, Size of anomalies: 1325 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "000.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1351,
+            "coordinates": [
+                {
+                    "min_row": 449,
+                    "min_col": 606,
+                    "max_row": 463,
+                    "max_col": 628
+                },
+                {
+                    "min_row": 465,
+                    "min_col": 616,
+                    "max_row": 487,
+                    "max_col": 665
+                },
+                {
+                    "min_row": 485,
+                    "min_col": 613,
+                    "max_row": 500,
+                    "max_col": 631
+                },
+                {
+                    "min_row": 521,
+                    "min_col": 632,
+                    "max_row": 537,
+                    "max_col": 654
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 000.png. Number of anomalies: 4, Size of anomalies: 1351 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "021.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1854,
+            "coordinates": [
+                {
+                    "min_row": 168,
+                    "min_col": 504,
+                    "max_row": 252,
+                    "max_col": 552
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 021.png. Number of anomalies: 1, Size of anomalies: 1854 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "003.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1839,
+            "coordinates": [
+                {
+                    "min_row": 450,
+                    "min_col": 522,
+                    "max_row": 464,
+                    "max_col": 548
+                },
+                {
+                    "min_row": 466,
+                    "min_col": 523,
+                    "max_row": 486,
+                    "max_col": 590
+                },
+                {
+                    "min_row": 485,
+                    "min_col": 520,
+                    "max_row": 503,
+                    "max_col": 536
+                },
+                {
+                    "min_row": 519,
+                    "min_col": 526,
+                    "max_row": 537,
+                    "max_col": 553
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 003.png. Number of anomalies: 4, Size of anomalies: 1839 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "031.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1683,
+            "coordinates": [
+                {
+                    "min_row": 191,
+                    "min_col": 432,
+                    "max_row": 279,
+                    "max_col": 470
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 031.png. Number of anomalies: 1, Size of anomalies: 1683 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "020.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1842,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 480,
+                    "max_row": 255,
+                    "max_col": 528
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 020.png. Number of anomalies: 1, Size of anomalies: 1842 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "017.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2082,
+            "coordinates": [
+                {
+                    "min_row": 171,
+                    "min_col": 484,
+                    "max_row": 259,
+                    "max_col": 532
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 017.png. Number of anomalies: 1, Size of anomalies: 2082 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "018.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2051,
+            "coordinates": [
+                {
+                    "min_row": 172,
+                    "min_col": 495,
+                    "max_row": 257,
+                    "max_col": 546
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 018.png. Number of anomalies: 1, Size of anomalies: 2051 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "014.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2074,
+            "coordinates": [
+                {
+                    "min_row": 150,
+                    "min_col": 506,
+                    "max_row": 239,
+                    "max_col": 560
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 014.png. Number of anomalies: 1, Size of anomalies: 2074 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "008.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1482,
+            "coordinates": [
+                {
+                    "min_row": 448,
+                    "min_col": 417,
+                    "max_row": 463,
+                    "max_col": 440
+                },
+                {
+                    "min_row": 464,
+                    "min_col": 418,
+                    "max_row": 483,
+                    "max_col": 475
+                },
+                {
+                    "min_row": 483,
+                    "min_col": 410,
+                    "max_row": 500,
+                    "max_col": 423
+                },
+                {
+                    "min_row": 517,
+                    "min_col": 406,
+                    "max_row": 532,
+                    "max_col": 430
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 008.png. Number of anomalies: 4, Size of anomalies: 1482 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "005.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1734,
+            "coordinates": [
+                {
+                    "min_row": 447,
+                    "min_col": 481,
+                    "max_row": 461,
+                    "max_col": 504
+                },
+                {
+                    "min_row": 463,
+                    "min_col": 481,
+                    "max_row": 484,
+                    "max_col": 548
+                },
+                {
+                    "min_row": 482,
+                    "min_col": 474,
+                    "max_row": 501,
+                    "max_col": 490
+                },
+                {
+                    "min_row": 521,
+                    "min_col": 475,
+                    "max_row": 535,
+                    "max_col": 501
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 005.png. Number of anomalies: 4, Size of anomalies: 1734 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "013.png",
+            "num_anomalies": 4,
+            "size_anomalies": 760,
+            "coordinates": [
+                {
+                    "min_row": 449,
+                    "min_col": 378,
+                    "max_row": 461,
+                    "max_col": 390
+                },
+                {
+                    "min_row": 464,
+                    "min_col": 373,
+                    "max_row": 482,
+                    "max_col": 408
+                },
+                {
+                    "min_row": 483,
+                    "min_col": 364,
+                    "max_row": 499,
+                    "max_col": 373
+                },
+                {
+                    "min_row": 518,
+                    "min_col": 355,
+                    "max_row": 532,
+                    "max_col": 370
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 013.png. Number of anomalies: 4, Size of anomalies: 760 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "027.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1425,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 540,
+                    "max_row": 251,
+                    "max_col": 579
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 027.png. Number of anomalies: 1, Size of anomalies: 1425 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "016.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2110,
+            "coordinates": [
+                {
+                    "min_row": 172,
+                    "min_col": 460,
+                    "max_row": 258,
+                    "max_col": 509
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 016.png. Number of anomalies: 1, Size of anomalies: 2110 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "007.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1483,
+            "coordinates": [
+                {
+                    "min_row": 439,
+                    "min_col": 522,
+                    "max_row": 453,
+                    "max_col": 545
+                },
+                {
+                    "min_row": 455,
+                    "min_col": 522,
+                    "max_row": 473,
+                    "max_col": 580
+                },
+                {
+                    "min_row": 473,
+                    "min_col": 515,
+                    "max_row": 491,
+                    "max_col": 528
+                },
+                {
+                    "min_row": 508,
+                    "min_col": 510,
+                    "max_row": 524,
+                    "max_col": 533
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 007.png. Number of anomalies: 4, Size of anomalies: 1483 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "001.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1565,
+            "coordinates": [
+                {
+                    "min_row": 452,
+                    "min_col": 530,
+                    "max_row": 466,
+                    "max_col": 557
+                },
+                {
+                    "min_row": 469,
+                    "min_col": 537,
+                    "max_row": 487,
+                    "max_col": 599
+                },
+                {
+                    "min_row": 487,
+                    "min_col": 534,
+                    "max_row": 505,
+                    "max_col": 550
+                },
+                {
+                    "min_row": 523,
+                    "min_col": 545,
+                    "max_row": 539,
+                    "max_col": 572
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 001.png. Number of anomalies: 4, Size of anomalies: 1565 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "012.png",
+            "num_anomalies": 4,
+            "size_anomalies": 909,
+            "coordinates": [
+                {
+                    "min_row": 446,
+                    "min_col": 375,
+                    "max_row": 461,
+                    "max_col": 389
+                },
+                {
+                    "min_row": 462,
+                    "min_col": 371,
+                    "max_row": 482,
+                    "max_col": 410
+                },
+                {
+                    "min_row": 481,
+                    "min_col": 363,
+                    "max_row": 497,
+                    "max_col": 371
+                },
+                {
+                    "min_row": 515,
+                    "min_col": 354,
+                    "max_row": 530,
+                    "max_col": 369
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 012.png. Number of anomalies: 4, Size of anomalies: 909 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "010.png",
+            "num_anomalies": 4,
+            "size_anomalies": 1210,
+            "coordinates": [
+                {
+                    "min_row": 446,
+                    "min_col": 417,
+                    "max_row": 460,
+                    "max_col": 435
+                },
+                {
+                    "min_row": 461,
+                    "min_col": 413,
+                    "max_row": 482,
+                    "max_col": 460
+                },
+                {
+                    "min_row": 481,
+                    "min_col": 407,
+                    "max_row": 498,
+                    "max_col": 418
+                },
+                {
+                    "min_row": 514,
+                    "min_col": 400,
+                    "max_row": 531,
+                    "max_col": 420
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 010.png. Number of anomalies: 4, Size of anomalies: 1210 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "030.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1451,
+            "coordinates": [
+                {
+                    "min_row": 190,
+                    "min_col": 399,
+                    "max_row": 277,
+                    "max_col": 432
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 030.png. Number of anomalies: 1, Size of anomalies: 1451 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "011.png",
+            "num_anomalies": 4,
+            "size_anomalies": 995,
+            "coordinates": [
+                {
+                    "min_row": 449,
+                    "min_col": 372,
+                    "max_row": 463,
+                    "max_col": 388
+                },
+                {
+                    "min_row": 464,
+                    "min_col": 368,
+                    "max_row": 484,
+                    "max_col": 410
+                },
+                {
+                    "min_row": 483,
+                    "min_col": 361,
+                    "max_row": 499,
+                    "max_col": 370
+                },
+                {
+                    "min_row": 517,
+                    "min_col": 353,
+                    "max_row": 533,
+                    "max_col": 370
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 011.png. Number of anomalies: 4, Size of anomalies: 995 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "022.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1925,
+            "coordinates": [
+                {
+                    "min_row": 165,
+                    "min_col": 507,
+                    "max_row": 250,
+                    "max_col": 554
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 022.png. Number of anomalies: 1, Size of anomalies: 1925 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "034.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1171,
+            "coordinates": [
+                {
+                    "min_row": 205,
+                    "min_col": 433,
+                    "max_row": 292,
+                    "max_col": 461
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 034.png. Number of anomalies: 1, Size of anomalies: 1171 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "015.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1624,
+            "coordinates": [
+                {
+                    "min_row": 177,
+                    "min_col": 445,
+                    "max_row": 263,
+                    "max_col": 492
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 015.png. Number of anomalies: 1, Size of anomalies: 1624 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "025.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1495,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 522,
+                    "max_row": 255,
+                    "max_col": 567
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 025.png. Number of anomalies: 1, Size of anomalies: 1495 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "024.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1683,
+            "coordinates": [
+                {
+                    "min_row": 169,
+                    "min_col": 524,
+                    "max_row": 254,
+                    "max_col": 570
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 024.png. Number of anomalies: 1, Size of anomalies: 1683 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "032.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1750,
+            "coordinates": [
+                {
+                    "min_row": 190,
+                    "min_col": 446,
+                    "max_row": 279,
+                    "max_col": 487
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 032.png. Number of anomalies: 1, Size of anomalies: 1750 pixels."
+        },
+        {
+            "class": "bracket_black",
+            "anomaly": "scratches",
+            "image": "028.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1464,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 543,
+                    "max_row": 250,
+                    "max_col": 580
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in bracket_black images. Image name: 028.png. Number of anomalies: 1, Size of anomalies: 1464 pixels."
+        }
+    ],
+    "bracket_brown": [
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1030,
+            "coordinates": [
+                {
+                    "min_row": 858,
+                    "min_col": 209,
+                    "max_row": 897,
+                    "max_col": 242
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 1030 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "026.png",
+            "num_anomalies": 3,
+            "size_anomalies": 1298,
+            "coordinates": [
+                {
+                    "min_row": 620,
+                    "min_col": 625,
+                    "max_row": 648,
+                    "max_col": 652
+                },
+                {
+                    "min_row": 754,
+                    "min_col": 612,
+                    "max_row": 768,
+                    "max_col": 641
+                },
+                {
+                    "min_row": 757,
+                    "min_col": 520,
+                    "max_row": 771,
+                    "max_col": 551
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 026.png. Number of anomalies: 3, Size of anomalies: 1298 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "023.png",
+            "num_anomalies": 1,
+            "size_anomalies": 721,
+            "coordinates": [
+                {
+                    "min_row": 777,
+                    "min_col": 633,
+                    "max_row": 812,
+                    "max_col": 660
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 023.png. Number of anomalies: 1, Size of anomalies: 721 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "033.png",
+            "num_anomalies": 2,
+            "size_anomalies": 3071,
+            "coordinates": [
+                {
+                    "min_row": 635,
+                    "min_col": 575,
+                    "max_row": 676,
+                    "max_col": 620
+                },
+                {
+                    "min_row": 784,
+                    "min_col": 513,
+                    "max_row": 837,
+                    "max_col": 558
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 033.png. Number of anomalies: 2, Size of anomalies: 3071 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "019.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2922,
+            "coordinates": [
+                {
+                    "min_row": 733,
+                    "min_col": 531,
+                    "max_row": 743,
+                    "max_col": 547
+                },
+                {
+                    "min_row": 740,
+                    "min_col": 447,
+                    "max_row": 758,
+                    "max_col": 477
+                },
+                {
+                    "min_row": 890,
+                    "min_col": 662,
+                    "max_row": 959,
+                    "max_col": 706
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 019.png. Number of anomalies: 3, Size of anomalies: 2922 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1417,
+            "coordinates": [
+                {
+                    "min_row": 900,
+                    "min_col": 244,
+                    "max_row": 947,
+                    "max_col": 281
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 1417 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "002.png",
+            "num_anomalies": 1,
+            "size_anomalies": 931,
+            "coordinates": [
+                {
+                    "min_row": 863,
+                    "min_col": 811,
+                    "max_row": 896,
+                    "max_col": 845
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 002.png. Number of anomalies: 1, Size of anomalies: 931 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "029.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1021,
+            "coordinates": [
+                {
+                    "min_row": 607,
+                    "min_col": 451,
+                    "max_row": 633,
+                    "max_col": 464
+                },
+                {
+                    "min_row": 751,
+                    "min_col": 442,
+                    "max_row": 789,
+                    "max_col": 471
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 029.png. Number of anomalies: 2, Size of anomalies: 1021 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "009.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2855,
+            "coordinates": [
+                {
+                    "min_row": 770,
+                    "min_col": 527,
+                    "max_row": 812,
+                    "max_col": 562
+                },
+                {
+                    "min_row": 908,
+                    "min_col": 101,
+                    "max_row": 956,
+                    "max_col": 145
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 009.png. Number of anomalies: 2, Size of anomalies: 2855 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "000.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2237,
+            "coordinates": [
+                {
+                    "min_row": 936,
+                    "min_col": 386,
+                    "max_row": 990,
+                    "max_col": 435
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 000.png. Number of anomalies: 1, Size of anomalies: 2237 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "003.png",
+            "num_anomalies": 1,
+            "size_anomalies": 405,
+            "coordinates": [
+                {
+                    "min_row": 816,
+                    "min_col": 755,
+                    "max_row": 839,
+                    "max_col": 776
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 003.png. Number of anomalies: 1, Size of anomalies: 405 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "021.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2023,
+            "coordinates": [
+                {
+                    "min_row": 756,
+                    "min_col": 419,
+                    "max_row": 787,
+                    "max_col": 457
+                },
+                {
+                    "min_row": 758,
+                    "min_col": 508,
+                    "max_row": 789,
+                    "max_col": 546
+                },
+                {
+                    "min_row": 805,
+                    "min_col": 480,
+                    "max_row": 818,
+                    "max_col": 510
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 021.png. Number of anomalies: 3, Size of anomalies: 2023 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "031.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2673,
+            "coordinates": [
+                {
+                    "min_row": 603,
+                    "min_col": 340,
+                    "max_row": 638,
+                    "max_col": 373
+                },
+                {
+                    "min_row": 748,
+                    "min_col": 474,
+                    "max_row": 809,
+                    "max_col": 513
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 031.png. Number of anomalies: 2, Size of anomalies: 2673 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "020.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2890,
+            "coordinates": [
+                {
+                    "min_row": 728,
+                    "min_col": 506,
+                    "max_row": 739,
+                    "max_col": 520
+                },
+                {
+                    "min_row": 735,
+                    "min_col": 423,
+                    "max_row": 755,
+                    "max_col": 452
+                },
+                {
+                    "min_row": 886,
+                    "min_col": 649,
+                    "max_row": 951,
+                    "max_col": 695
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 020.png. Number of anomalies: 3, Size of anomalies: 2890 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "018.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2933,
+            "coordinates": [
+                {
+                    "min_row": 741,
+                    "min_col": 563,
+                    "max_row": 756,
+                    "max_col": 592
+                },
+                {
+                    "min_row": 750,
+                    "min_col": 485,
+                    "max_row": 765,
+                    "max_col": 514
+                },
+                {
+                    "min_row": 912,
+                    "min_col": 632,
+                    "max_row": 968,
+                    "max_col": 682
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 018.png. Number of anomalies: 3, Size of anomalies: 2933 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "014.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2967,
+            "coordinates": [
+                {
+                    "min_row": 752,
+                    "min_col": 603,
+                    "max_row": 780,
+                    "max_col": 635
+                },
+                {
+                    "min_row": 928,
+                    "min_col": 431,
+                    "max_row": 985,
+                    "max_col": 480
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 014.png. Number of anomalies: 2, Size of anomalies: 2967 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "017.png",
+            "num_anomalies": 3,
+            "size_anomalies": 3038,
+            "coordinates": [
+                {
+                    "min_row": 740,
+                    "min_col": 593,
+                    "max_row": 755,
+                    "max_col": 626
+                },
+                {
+                    "min_row": 747,
+                    "min_col": 510,
+                    "max_row": 763,
+                    "max_col": 540
+                },
+                {
+                    "min_row": 913,
+                    "min_col": 550,
+                    "max_row": 986,
+                    "max_col": 593
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 017.png. Number of anomalies: 3, Size of anomalies: 3038 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "008.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1382,
+            "coordinates": [
+                {
+                    "min_row": 918,
+                    "min_col": 252,
+                    "max_row": 964,
+                    "max_col": 288
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 008.png. Number of anomalies: 1, Size of anomalies: 1382 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 1327,
+            "coordinates": [
+                {
+                    "min_row": 865,
+                    "min_col": 208,
+                    "max_row": 907,
+                    "max_col": 243
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 1327 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "013.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2838,
+            "coordinates": [
+                {
+                    "min_row": 756,
+                    "min_col": 447,
+                    "max_row": 796,
+                    "max_col": 490
+                },
+                {
+                    "min_row": 827,
+                    "min_col": 835,
+                    "max_row": 872,
+                    "max_col": 874
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 013.png. Number of anomalies: 2, Size of anomalies: 2838 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "027.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2101,
+            "coordinates": [
+                {
+                    "min_row": 602,
+                    "min_col": 552,
+                    "max_row": 648,
+                    "max_col": 595
+                },
+                {
+                    "min_row": 736,
+                    "min_col": 572,
+                    "max_row": 751,
+                    "max_col": 607
+                },
+                {
+                    "min_row": 744,
+                    "min_col": 493,
+                    "max_row": 761,
+                    "max_col": 525
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 027.png. Number of anomalies: 3, Size of anomalies: 2101 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2141,
+            "coordinates": [
+                {
+                    "min_row": 943,
+                    "min_col": 420,
+                    "max_row": 1003,
+                    "max_col": 465
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 2141 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "001.png",
+            "num_anomalies": 1,
+            "size_anomalies": 2183,
+            "coordinates": [
+                {
+                    "min_row": 907,
+                    "min_col": 622,
+                    "max_row": 966,
+                    "max_col": 668
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 001.png. Number of anomalies: 1, Size of anomalies: 2183 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "016.png",
+            "num_anomalies": 3,
+            "size_anomalies": 3065,
+            "coordinates": [
+                {
+                    "min_row": 743,
+                    "min_col": 574,
+                    "max_row": 759,
+                    "max_col": 606
+                },
+                {
+                    "min_row": 750,
+                    "min_col": 490,
+                    "max_row": 769,
+                    "max_col": 522
+                },
+                {
+                    "min_row": 913,
+                    "min_col": 541,
+                    "max_row": 979,
+                    "max_col": 585
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 016.png. Number of anomalies: 3, Size of anomalies: 3065 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "010.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2945,
+            "coordinates": [
+                {
+                    "min_row": 763,
+                    "min_col": 730,
+                    "max_row": 807,
+                    "max_col": 764
+                },
+                {
+                    "min_row": 923,
+                    "min_col": 404,
+                    "max_row": 975,
+                    "max_col": 445
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 010.png. Number of anomalies: 2, Size of anomalies: 2945 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "012.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2080,
+            "coordinates": [
+                {
+                    "min_row": 771,
+                    "min_col": 433,
+                    "max_row": 803,
+                    "max_col": 489
+                },
+                {
+                    "min_row": 823,
+                    "min_col": 658,
+                    "max_row": 842,
+                    "max_col": 697
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 012.png. Number of anomalies: 2, Size of anomalies: 2080 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "030.png",
+            "num_anomalies": 2,
+            "size_anomalies": 821,
+            "coordinates": [
+                {
+                    "min_row": 603,
+                    "min_col": 367,
+                    "max_row": 633,
+                    "max_col": 392
+                },
+                {
+                    "min_row": 755,
+                    "min_col": 462,
+                    "max_row": 783,
+                    "max_col": 484
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 030.png. Number of anomalies: 2, Size of anomalies: 821 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "022.png",
+            "num_anomalies": 3,
+            "size_anomalies": 2299,
+            "coordinates": [
+                {
+                    "min_row": 779,
+                    "min_col": 601,
+                    "max_row": 807,
+                    "max_col": 628
+                },
+                {
+                    "min_row": 785,
+                    "min_col": 519,
+                    "max_row": 820,
+                    "max_col": 555
+                },
+                {
+                    "min_row": 846,
+                    "min_col": 226,
+                    "max_row": 874,
+                    "max_col": 262
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 022.png. Number of anomalies: 3, Size of anomalies: 2299 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "011.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1308,
+            "coordinates": [
+                {
+                    "min_row": 780,
+                    "min_col": 500,
+                    "max_row": 815,
+                    "max_col": 536
+                },
+                {
+                    "min_row": 829,
+                    "min_col": 516,
+                    "max_row": 848,
+                    "max_col": 535
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 011.png. Number of anomalies: 2, Size of anomalies: 1308 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "015.png",
+            "num_anomalies": 2,
+            "size_anomalies": 4222,
+            "coordinates": [
+                {
+                    "min_row": 753,
+                    "min_col": 621,
+                    "max_row": 798,
+                    "max_col": 659
+                },
+                {
+                    "min_row": 909,
+                    "min_col": 258,
+                    "max_row": 974,
+                    "max_col": 313
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 015.png. Number of anomalies: 2, Size of anomalies: 4222 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "024.png",
+            "num_anomalies": 2,
+            "size_anomalies": 997,
+            "coordinates": [
+                {
+                    "min_row": 749,
+                    "min_col": 596,
+                    "max_row": 768,
+                    "max_col": 628
+                },
+                {
+                    "min_row": 751,
+                    "min_col": 505,
+                    "max_row": 771,
+                    "max_col": 539
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 024.png. Number of anomalies: 2, Size of anomalies: 997 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "025.png",
+            "num_anomalies": 2,
+            "size_anomalies": 753,
+            "coordinates": [
+                {
+                    "min_row": 741,
+                    "min_col": 567,
+                    "max_row": 755,
+                    "max_col": 599
+                },
+                {
+                    "min_row": 747,
+                    "min_col": 485,
+                    "max_row": 763,
+                    "max_col": 515
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 025.png. Number of anomalies: 2, Size of anomalies: 753 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "032.png",
+            "num_anomalies": 2,
+            "size_anomalies": 2850,
+            "coordinates": [
+                {
+                    "min_row": 637,
+                    "min_col": 567,
+                    "max_row": 675,
+                    "max_col": 611
+                },
+                {
+                    "min_row": 788,
+                    "min_col": 512,
+                    "max_row": 835,
+                    "max_col": 552
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 032.png. Number of anomalies: 2, Size of anomalies: 2850 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "parts_mismatch",
+            "image": "028.png",
+            "num_anomalies": 2,
+            "size_anomalies": 1627,
+            "coordinates": [
+                {
+                    "min_row": 603,
+                    "min_col": 488,
+                    "max_row": 645,
+                    "max_col": 522
+                },
+                {
+                    "min_row": 748,
+                    "min_col": 455,
+                    "max_row": 787,
+                    "max_col": 483
+                }
+            ],
+            "description": "Anomaly of type 'parts_mismatch' found in bracket_brown images. Image name: 028.png. Number of anomalies: 2, Size of anomalies: 1627 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "004.png",
+            "num_anomalies": 4,
+            "size_anomalies": 20472,
+            "coordinates": [
+                {
+                    "min_row": 123,
+                    "min_col": 413,
+                    "max_row": 280,
+                    "max_col": 555
+                },
+                {
+                    "min_row": 737,
+                    "min_col": 475,
+                    "max_row": 761,
+                    "max_col": 498
+                },
+                {
+                    "min_row": 741,
+                    "min_col": 534,
+                    "max_row": 756,
+                    "max_col": 559
+                },
+                {
+                    "min_row": 828,
+                    "min_col": 320,
+                    "max_row": 858,
+                    "max_col": 350
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 004.png. Number of anomalies: 4, Size of anomalies: 20472 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "006.png",
+            "num_anomalies": 4,
+            "size_anomalies": 16980,
+            "coordinates": [
+                {
+                    "min_row": 116,
+                    "min_col": 423,
+                    "max_row": 278,
+                    "max_col": 541
+                },
+                {
+                    "min_row": 714,
+                    "min_col": 432,
+                    "max_row": 734,
+                    "max_col": 459
+                },
+                {
+                    "min_row": 719,
+                    "min_col": 506,
+                    "max_row": 738,
+                    "max_col": 536
+                },
+                {
+                    "min_row": 799,
+                    "min_col": 493,
+                    "max_row": 818,
+                    "max_col": 524
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 006.png. Number of anomalies: 4, Size of anomalies: 16980 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "002.png",
+            "num_anomalies": 3,
+            "size_anomalies": 16431,
+            "coordinates": [
+                {
+                    "min_row": 127,
+                    "min_col": 423,
+                    "max_row": 273,
+                    "max_col": 545
+                },
+                {
+                    "min_row": 740,
+                    "min_col": 537,
+                    "max_row": 785,
+                    "max_col": 574
+                },
+                {
+                    "min_row": 867,
+                    "min_col": 219,
+                    "max_row": 900,
+                    "max_col": 248
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 002.png. Number of anomalies: 3, Size of anomalies: 16431 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "009.png",
+            "num_anomalies": 3,
+            "size_anomalies": 14449,
+            "coordinates": [
+                {
+                    "min_row": 119,
+                    "min_col": 474,
+                    "max_row": 256,
+                    "max_col": 583
+                },
+                {
+                    "min_row": 716,
+                    "min_col": 456,
+                    "max_row": 754,
+                    "max_col": 497
+                },
+                {
+                    "min_row": 829,
+                    "min_col": 764,
+                    "max_row": 865,
+                    "max_col": 803
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 009.png. Number of anomalies: 3, Size of anomalies: 14449 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "000.png",
+            "num_anomalies": 3,
+            "size_anomalies": 16283,
+            "coordinates": [
+                {
+                    "min_row": 116,
+                    "min_col": 505,
+                    "max_row": 274,
+                    "max_col": 609
+                },
+                {
+                    "min_row": 732,
+                    "min_col": 620,
+                    "max_row": 783,
+                    "max_col": 664
+                },
+                {
+                    "min_row": 892,
+                    "min_col": 242,
+                    "max_row": 936,
+                    "max_col": 284
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 000.png. Number of anomalies: 3, Size of anomalies: 16283 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "003.png",
+            "num_anomalies": 3,
+            "size_anomalies": 16652,
+            "coordinates": [
+                {
+                    "min_row": 131,
+                    "min_col": 406,
+                    "max_row": 276,
+                    "max_col": 534
+                },
+                {
+                    "min_row": 735,
+                    "min_col": 521,
+                    "max_row": 765,
+                    "max_col": 554
+                },
+                {
+                    "min_row": 837,
+                    "min_col": 286,
+                    "max_row": 870,
+                    "max_col": 317
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 003.png. Number of anomalies: 3, Size of anomalies: 16652 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "014.png",
+            "num_anomalies": 4,
+            "size_anomalies": 21234,
+            "coordinates": [
+                {
+                    "min_row": 110,
+                    "min_col": 497,
+                    "max_row": 259,
+                    "max_col": 641
+                },
+                {
+                    "min_row": 712,
+                    "min_col": 568,
+                    "max_row": 732,
+                    "max_col": 597
+                },
+                {
+                    "min_row": 722,
+                    "min_col": 494,
+                    "max_row": 745,
+                    "max_col": 525
+                },
+                {
+                    "min_row": 922,
+                    "min_col": 595,
+                    "max_row": 980,
+                    "max_col": 645
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 014.png. Number of anomalies: 4, Size of anomalies: 21234 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "008.png",
+            "num_anomalies": 4,
+            "size_anomalies": 21309,
+            "coordinates": [
+                {
+                    "min_row": 111,
+                    "min_col": 461,
+                    "max_row": 267,
+                    "max_col": 619
+                },
+                {
+                    "min_row": 724,
+                    "min_col": 452,
+                    "max_row": 742,
+                    "max_col": 484
+                },
+                {
+                    "min_row": 724,
+                    "min_col": 492,
+                    "max_row": 747,
+                    "max_col": 525
+                },
+                {
+                    "min_row": 819,
+                    "min_col": 722,
+                    "max_row": 843,
+                    "max_col": 752
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 008.png. Number of anomalies: 4, Size of anomalies: 21309 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "005.png",
+            "num_anomalies": 4,
+            "size_anomalies": 20209,
+            "coordinates": [
+                {
+                    "min_row": 112,
+                    "min_col": 392,
+                    "max_row": 272,
+                    "max_col": 532
+                },
+                {
+                    "min_row": 723,
+                    "min_col": 441,
+                    "max_row": 745,
+                    "max_col": 464
+                },
+                {
+                    "min_row": 725,
+                    "min_col": 506,
+                    "max_row": 748,
+                    "max_col": 535
+                },
+                {
+                    "min_row": 815,
+                    "min_col": 384,
+                    "max_row": 833,
+                    "max_col": 420
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 005.png. Number of anomalies: 4, Size of anomalies: 20209 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "013.png",
+            "num_anomalies": 4,
+            "size_anomalies": 16916,
+            "coordinates": [
+                {
+                    "min_row": 129,
+                    "min_col": 481,
+                    "max_row": 264,
+                    "max_col": 604
+                },
+                {
+                    "min_row": 710,
+                    "min_col": 517,
+                    "max_row": 724,
+                    "max_col": 537
+                },
+                {
+                    "min_row": 718,
+                    "min_col": 448,
+                    "max_row": 742,
+                    "max_col": 480
+                },
+                {
+                    "min_row": 909,
+                    "min_col": 655,
+                    "max_row": 961,
+                    "max_col": 715
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 013.png. Number of anomalies: 4, Size of anomalies: 16916 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "007.png",
+            "num_anomalies": 4,
+            "size_anomalies": 19523,
+            "coordinates": [
+                {
+                    "min_row": 106,
+                    "min_col": 402,
+                    "max_row": 273,
+                    "max_col": 542
+                },
+                {
+                    "min_row": 734,
+                    "min_col": 387,
+                    "max_row": 753,
+                    "max_col": 419
+                },
+                {
+                    "min_row": 741,
+                    "min_col": 468,
+                    "max_row": 761,
+                    "max_col": 496
+                },
+                {
+                    "min_row": 826,
+                    "min_col": 572,
+                    "max_row": 842,
+                    "max_col": 601
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 007.png. Number of anomalies: 4, Size of anomalies: 19523 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "001.png",
+            "num_anomalies": 3,
+            "size_anomalies": 15420,
+            "coordinates": [
+                {
+                    "min_row": 133,
+                    "min_col": 430,
+                    "max_row": 281,
+                    "max_col": 545
+                },
+                {
+                    "min_row": 742,
+                    "min_col": 565,
+                    "max_row": 773,
+                    "max_col": 588
+                },
+                {
+                    "min_row": 882,
+                    "min_col": 198,
+                    "max_row": 923,
+                    "max_col": 232
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 001.png. Number of anomalies: 3, Size of anomalies: 15420 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "012.png",
+            "num_anomalies": 3,
+            "size_anomalies": 17862,
+            "coordinates": [
+                {
+                    "min_row": 114,
+                    "min_col": 466,
+                    "max_row": 263,
+                    "max_col": 593
+                },
+                {
+                    "min_row": 709,
+                    "min_col": 432,
+                    "max_row": 731,
+                    "max_col": 459
+                },
+                {
+                    "min_row": 874,
+                    "min_col": 741,
+                    "max_row": 914,
+                    "max_col": 778
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 012.png. Number of anomalies: 3, Size of anomalies: 17862 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "016.png",
+            "num_anomalies": 4,
+            "size_anomalies": 14486,
+            "coordinates": [
+                {
+                    "min_row": 134,
+                    "min_col": 455,
+                    "max_row": 268,
+                    "max_col": 562
+                },
+                {
+                    "min_row": 706,
+                    "min_col": 555,
+                    "max_row": 722,
+                    "max_col": 582
+                },
+                {
+                    "min_row": 712,
+                    "min_col": 479,
+                    "max_row": 730,
+                    "max_col": 506
+                },
+                {
+                    "min_row": 906,
+                    "min_col": 421,
+                    "max_row": 963,
+                    "max_col": 467
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 016.png. Number of anomalies: 4, Size of anomalies: 14486 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "010.png",
+            "num_anomalies": 3,
+            "size_anomalies": 16895,
+            "coordinates": [
+                {
+                    "min_row": 106,
+                    "min_col": 493,
+                    "max_row": 258,
+                    "max_col": 615
+                },
+                {
+                    "min_row": 715,
+                    "min_col": 446,
+                    "max_row": 756,
+                    "max_col": 490
+                },
+                {
+                    "min_row": 850,
+                    "min_col": 795,
+                    "max_row": 896,
+                    "max_col": 833
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 010.png. Number of anomalies: 3, Size of anomalies: 16895 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "011.png",
+            "num_anomalies": 3,
+            "size_anomalies": 16777,
+            "coordinates": [
+                {
+                    "min_row": 119,
+                    "min_col": 497,
+                    "max_row": 275,
+                    "max_col": 609
+                },
+                {
+                    "min_row": 716,
+                    "min_col": 451,
+                    "max_row": 748,
+                    "max_col": 482
+                },
+                {
+                    "min_row": 866,
+                    "min_col": 787,
+                    "max_row": 913,
+                    "max_col": 833
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 011.png. Number of anomalies: 3, Size of anomalies: 16777 pixels."
+        },
+        {
+            "class": "bracket_brown",
+            "anomaly": "bend_and_parts_mismatch",
+            "image": "015.png",
+            "num_anomalies": 4,
+            "size_anomalies": 18074,
+            "coordinates": [
+                {
+                    "min_row": 124,
+                    "min_col": 472,
+                    "max_row": 262,
+                    "max_col": 602
+                },
+                {
+                    "min_row": 714,
+                    "min_col": 571,
+                    "max_row": 735,
+                    "max_col": 603
+                },
+                {
+                    "min_row": 722,
+                    "min_col": 495,
+                    "max_row": 739,
+                    "max_col": 523
+                },
+                {
+                    "min_row": 926,
+                    "min_col": 433,
+                    "max_row": 983,
+                    "max_col": 477
+                }
+            ],
+            "description": "Anomaly of type 'bend_and_parts_mismatch' found in bracket_brown images. Image name: 015.png. Number of anomalies: 4, Size of anomalies: 18074 pixels."
+        }
+    ],
+    "metal_plate": [
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "004.png",
+            "num_anomalies": 2,
+            "size_anomalies": 259347,
+            "coordinates": [
+                {
+                    "min_row": 157,
+                    "min_col": 160,
+                    "max_row": 799,
+                    "max_col": 885
+                },
+                {
+                    "min_row": 765,
+                    "min_col": 466,
+                    "max_row": 766,
+                    "max_col": 467
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 004.png. Number of anomalies: 2, Size of anomalies: 259347 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "019.png",
+            "num_anomalies": 1,
+            "size_anomalies": 270413,
+            "coordinates": [
+                {
+                    "min_row": 177,
+                    "min_col": 192,
+                    "max_row": 855,
+                    "max_col": 779
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 019.png. Number of anomalies: 1, Size of anomalies: 270413 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 251259,
+            "coordinates": [
+                {
+                    "min_row": 216,
+                    "min_col": 82,
+                    "max_row": 896,
+                    "max_col": 822
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 251259 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "002.png",
+            "num_anomalies": 1,
+            "size_anomalies": 262035,
+            "coordinates": [
+                {
+                    "min_row": 178,
+                    "min_col": 162,
+                    "max_row": 824,
+                    "max_col": 882
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 002.png. Number of anomalies: 1, Size of anomalies: 262035 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 267839,
+            "coordinates": [
+                {
+                    "min_row": 198,
+                    "min_col": 221,
+                    "max_row": 849,
+                    "max_col": 751
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 267839 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "021.png",
+            "num_anomalies": 1,
+            "size_anomalies": 277014,
+            "coordinates": [
+                {
+                    "min_row": 121,
+                    "min_col": 114,
+                    "max_row": 882,
+                    "max_col": 853
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 021.png. Number of anomalies: 1, Size of anomalies: 277014 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "000.png",
+            "num_anomalies": 1,
+            "size_anomalies": 259423,
+            "coordinates": [
+                {
+                    "min_row": 157,
+                    "min_col": 147,
+                    "max_row": 885,
+                    "max_col": 854
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 000.png. Number of anomalies: 1, Size of anomalies: 259423 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "020.png",
+            "num_anomalies": 1,
+            "size_anomalies": 270654,
+            "coordinates": [
+                {
+                    "min_row": 266,
+                    "min_col": 195,
+                    "max_row": 777,
+                    "max_col": 850
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 020.png. Number of anomalies: 1, Size of anomalies: 270654 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "003.png",
+            "num_anomalies": 1,
+            "size_anomalies": 261810,
+            "coordinates": [
+                {
+                    "min_row": 220,
+                    "min_col": 212,
+                    "max_row": 891,
+                    "max_col": 772
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 003.png. Number of anomalies: 1, Size of anomalies: 261810 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "018.png",
+            "num_anomalies": 1,
+            "size_anomalies": 266007,
+            "coordinates": [
+                {
+                    "min_row": 270,
+                    "min_col": 177,
+                    "max_row": 747,
+                    "max_col": 798
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 018.png. Number of anomalies: 1, Size of anomalies: 266007 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "017.png",
+            "num_anomalies": 1,
+            "size_anomalies": 264894,
+            "coordinates": [
+                {
+                    "min_row": 227,
+                    "min_col": 126,
+                    "max_row": 737,
+                    "max_col": 759
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 017.png. Number of anomalies: 1, Size of anomalies: 264894 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "008.png",
+            "num_anomalies": 2,
+            "size_anomalies": 268753,
+            "coordinates": [
+                {
+                    "min_row": 196,
+                    "min_col": 112,
+                    "max_row": 826,
+                    "max_col": 845
+                },
+                {
+                    "min_row": 522,
+                    "min_col": 417,
+                    "max_row": 523,
+                    "max_col": 418
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 008.png. Number of anomalies: 2, Size of anomalies: 268753 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "014.png",
+            "num_anomalies": 1,
+            "size_anomalies": 243010,
+            "coordinates": [
+                {
+                    "min_row": 209,
+                    "min_col": 252,
+                    "max_row": 826,
+                    "max_col": 736
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 014.png. Number of anomalies: 1, Size of anomalies: 243010 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 253871,
+            "coordinates": [
+                {
+                    "min_row": 182,
+                    "min_col": 121,
+                    "max_row": 895,
+                    "max_col": 847
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 253871 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "013.png",
+            "num_anomalies": 1,
+            "size_anomalies": 247010,
+            "coordinates": [
+                {
+                    "min_row": 249,
+                    "min_col": 177,
+                    "max_row": 755,
+                    "max_col": 795
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 013.png. Number of anomalies: 1, Size of anomalies: 247010 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 254877,
+            "coordinates": [
+                {
+                    "min_row": 239,
+                    "min_col": 149,
+                    "max_row": 757,
+                    "max_col": 795
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 254877 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "001.png",
+            "num_anomalies": 1,
+            "size_anomalies": 256877,
+            "coordinates": [
+                {
+                    "min_row": 230,
+                    "min_col": 141,
+                    "max_row": 775,
+                    "max_col": 802
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 001.png. Number of anomalies: 1, Size of anomalies: 256877 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "016.png",
+            "num_anomalies": 1,
+            "size_anomalies": 268738,
+            "coordinates": [
+                {
+                    "min_row": 234,
+                    "min_col": 146,
+                    "max_row": 810,
+                    "max_col": 864
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 016.png. Number of anomalies: 1, Size of anomalies: 268738 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "012.png",
+            "num_anomalies": 1,
+            "size_anomalies": 251818,
+            "coordinates": [
+                {
+                    "min_row": 162,
+                    "min_col": 155,
+                    "max_row": 898,
+                    "max_col": 824
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 012.png. Number of anomalies: 1, Size of anomalies: 251818 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "010.png",
+            "num_anomalies": 2,
+            "size_anomalies": 261324,
+            "coordinates": [
+                {
+                    "min_row": 234,
+                    "min_col": 694,
+                    "max_row": 237,
+                    "max_col": 696
+                },
+                {
+                    "min_row": 236,
+                    "min_col": 152,
+                    "max_row": 799,
+                    "max_col": 840
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 010.png. Number of anomalies: 2, Size of anomalies: 261324 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "022.png",
+            "num_anomalies": 4,
+            "size_anomalies": 266584,
+            "coordinates": [
+                {
+                    "min_row": 17,
+                    "min_col": 981,
+                    "max_row": 18,
+                    "max_col": 982
+                },
+                {
+                    "min_row": 18,
+                    "min_col": 1023,
+                    "max_row": 19,
+                    "max_col": 1024
+                },
+                {
+                    "min_row": 24,
+                    "min_col": 1022,
+                    "max_row": 25,
+                    "max_col": 1023
+                },
+                {
+                    "min_row": 124,
+                    "min_col": 145,
+                    "max_row": 897,
+                    "max_col": 834
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 022.png. Number of anomalies: 4, Size of anomalies: 266584 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "015.png",
+            "num_anomalies": 1,
+            "size_anomalies": 257381,
+            "coordinates": [
+                {
+                    "min_row": 162,
+                    "min_col": 58,
+                    "max_row": 809,
+                    "max_col": 750
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 015.png. Number of anomalies: 1, Size of anomalies: 257381 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "total_rust",
+            "image": "011.png",
+            "num_anomalies": 1,
+            "size_anomalies": 269210,
+            "coordinates": [
+                {
+                    "min_row": 226,
+                    "min_col": 68,
+                    "max_row": 824,
+                    "max_col": 783
+                }
+            ],
+            "description": "Anomaly of type 'total_rust' found in metal_plate images. Image name: 011.png. Number of anomalies: 1, Size of anomalies: 269210 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 208717,
+            "coordinates": [
+                {
+                    "min_row": 191,
+                    "min_col": 245,
+                    "max_row": 840,
+                    "max_col": 805
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 208717 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 94712,
+            "coordinates": [
+                {
+                    "min_row": 146,
+                    "min_col": 627,
+                    "max_row": 754,
+                    "max_col": 935
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 94712 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "002.png",
+            "num_anomalies": 1,
+            "size_anomalies": 109990,
+            "coordinates": [
+                {
+                    "min_row": 231,
+                    "min_col": 633,
+                    "max_row": 812,
+                    "max_col": 888
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 002.png. Number of anomalies: 1, Size of anomalies: 109990 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 120114,
+            "coordinates": [
+                {
+                    "min_row": 241,
+                    "min_col": 616,
+                    "max_row": 828,
+                    "max_col": 883
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 120114 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "000.png",
+            "num_anomalies": 1,
+            "size_anomalies": 169064,
+            "coordinates": [
+                {
+                    "min_row": 358,
+                    "min_col": 204,
+                    "max_row": 866,
+                    "max_col": 910
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 000.png. Number of anomalies: 1, Size of anomalies: 169064 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "003.png",
+            "num_anomalies": 1,
+            "size_anomalies": 109996,
+            "coordinates": [
+                {
+                    "min_row": 101,
+                    "min_col": 66,
+                    "max_row": 611,
+                    "max_col": 611
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 003.png. Number of anomalies: 1, Size of anomalies: 109996 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 218563,
+            "coordinates": [
+                {
+                    "min_row": 152,
+                    "min_col": 193,
+                    "max_row": 857,
+                    "max_col": 842
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 218563 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "008.png",
+            "num_anomalies": 1,
+            "size_anomalies": 152103,
+            "coordinates": [
+                {
+                    "min_row": 311,
+                    "min_col": 46,
+                    "max_row": 929,
+                    "max_col": 545
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 008.png. Number of anomalies: 1, Size of anomalies: 152103 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "013.png",
+            "num_anomalies": 1,
+            "size_anomalies": 196176,
+            "coordinates": [
+                {
+                    "min_row": 242,
+                    "min_col": 172,
+                    "max_row": 790,
+                    "max_col": 566
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 013.png. Number of anomalies: 1, Size of anomalies: 196176 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "001.png",
+            "num_anomalies": 2,
+            "size_anomalies": 153188,
+            "coordinates": [
+                {
+                    "min_row": 157,
+                    "min_col": 161,
+                    "max_row": 493,
+                    "max_col": 573
+                },
+                {
+                    "min_row": 283,
+                    "min_col": 498,
+                    "max_row": 617,
+                    "max_col": 855
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 001.png. Number of anomalies: 2, Size of anomalies: 153188 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 89601,
+            "coordinates": [
+                {
+                    "min_row": 220,
+                    "min_col": 114,
+                    "max_row": 760,
+                    "max_col": 479
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 89601 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "012.png",
+            "num_anomalies": 1,
+            "size_anomalies": 191685,
+            "coordinates": [
+                {
+                    "min_row": 135,
+                    "min_col": 445,
+                    "max_row": 763,
+                    "max_col": 965
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 012.png. Number of anomalies: 1, Size of anomalies: 191685 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "010.png",
+            "num_anomalies": 1,
+            "size_anomalies": 139185,
+            "coordinates": [
+                {
+                    "min_row": 208,
+                    "min_col": 540,
+                    "max_row": 797,
+                    "max_col": 896
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 010.png. Number of anomalies: 1, Size of anomalies: 139185 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "major_rust",
+            "image": "011.png",
+            "num_anomalies": 1,
+            "size_anomalies": 147384,
+            "coordinates": [
+                {
+                    "min_row": 295,
+                    "min_col": 97,
+                    "max_row": 971,
+                    "max_col": 544
+                }
+            ],
+            "description": "Anomaly of type 'major_rust' found in metal_plate images. Image name: 011.png. Number of anomalies: 1, Size of anomalies: 147384 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "004.png",
+            "num_anomalies": 1,
+            "size_anomalies": 114129,
+            "coordinates": [
+                {
+                    "min_row": 76,
+                    "min_col": 15,
+                    "max_row": 568,
+                    "max_col": 532
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 004.png. Number of anomalies: 1, Size of anomalies: 114129 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "026.png",
+            "num_anomalies": 5,
+            "size_anomalies": 21618,
+            "coordinates": [
+                {
+                    "min_row": 148,
+                    "min_col": 392,
+                    "max_row": 284,
+                    "max_col": 513
+                },
+                {
+                    "min_row": 356,
+                    "min_col": 619,
+                    "max_row": 463,
+                    "max_col": 785
+                },
+                {
+                    "min_row": 602,
+                    "min_col": 712,
+                    "max_row": 663,
+                    "max_col": 810
+                },
+                {
+                    "min_row": 630,
+                    "min_col": 287,
+                    "max_row": 675,
+                    "max_col": 425
+                },
+                {
+                    "min_row": 745,
+                    "min_col": 495,
+                    "max_row": 804,
+                    "max_col": 663
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 026.png. Number of anomalies: 5, Size of anomalies: 21618 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "033.png",
+            "num_anomalies": 2,
+            "size_anomalies": 122917,
+            "coordinates": [
+                {
+                    "min_row": 169,
+                    "min_col": 118,
+                    "max_row": 453,
+                    "max_col": 660
+                },
+                {
+                    "min_row": 585,
+                    "min_col": 483,
+                    "max_row": 824,
+                    "max_col": 910
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 033.png. Number of anomalies: 2, Size of anomalies: 122917 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "006.png",
+            "num_anomalies": 1,
+            "size_anomalies": 84850,
+            "coordinates": [
+                {
+                    "min_row": 474,
+                    "min_col": 447,
+                    "max_row": 913,
+                    "max_col": 877
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 006.png. Number of anomalies: 1, Size of anomalies: 84850 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "002.png",
+            "num_anomalies": 1,
+            "size_anomalies": 104168,
+            "coordinates": [
+                {
+                    "min_row": 572,
+                    "min_col": 214,
+                    "max_row": 918,
+                    "max_col": 887
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 002.png. Number of anomalies: 1, Size of anomalies: 104168 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "029.png",
+            "num_anomalies": 2,
+            "size_anomalies": 123574,
+            "coordinates": [
+                {
+                    "min_row": 170,
+                    "min_col": 688,
+                    "max_row": 612,
+                    "max_col": 854
+                },
+                {
+                    "min_row": 310,
+                    "min_col": 108,
+                    "max_row": 847,
+                    "max_col": 442
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 029.png. Number of anomalies: 2, Size of anomalies: 123574 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "009.png",
+            "num_anomalies": 1,
+            "size_anomalies": 203564,
+            "coordinates": [
+                {
+                    "min_row": 375,
+                    "min_col": 240,
+                    "max_row": 944,
+                    "max_col": 902
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 009.png. Number of anomalies: 1, Size of anomalies: 203564 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "003.png",
+            "num_anomalies": 1,
+            "size_anomalies": 91079,
+            "coordinates": [
+                {
+                    "min_row": 397,
+                    "min_col": 418,
+                    "max_row": 953,
+                    "max_col": 870
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 003.png. Number of anomalies: 1, Size of anomalies: 91079 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "000.png",
+            "num_anomalies": 2,
+            "size_anomalies": 120553,
+            "coordinates": [
+                {
+                    "min_row": 131,
+                    "min_col": 173,
+                    "max_row": 405,
+                    "max_col": 608
+                },
+                {
+                    "min_row": 207,
+                    "min_col": 547,
+                    "max_row": 465,
+                    "max_col": 931
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 000.png. Number of anomalies: 2, Size of anomalies: 120553 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "020.png",
+            "num_anomalies": 1,
+            "size_anomalies": 71421,
+            "coordinates": [
+                {
+                    "min_row": 465,
+                    "min_col": 367,
+                    "max_row": 769,
+                    "max_col": 840
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 020.png. Number of anomalies: 1, Size of anomalies: 71421 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "031.png",
+            "num_anomalies": 2,
+            "size_anomalies": 132444,
+            "coordinates": [
+                {
+                    "min_row": 202,
+                    "min_col": 57,
+                    "max_row": 408,
+                    "max_col": 581
+                },
+                {
+                    "min_row": 558,
+                    "min_col": 389,
+                    "max_row": 791,
+                    "max_col": 856
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 031.png. Number of anomalies: 2, Size of anomalies: 132444 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "014.png",
+            "num_anomalies": 1,
+            "size_anomalies": 181012,
+            "coordinates": [
+                {
+                    "min_row": 273,
+                    "min_col": 152,
+                    "max_row": 842,
+                    "max_col": 869
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 014.png. Number of anomalies: 1, Size of anomalies: 181012 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "018.png",
+            "num_anomalies": 2,
+            "size_anomalies": 90259,
+            "coordinates": [
+                {
+                    "min_row": 193,
+                    "min_col": 214,
+                    "max_row": 518,
+                    "max_col": 611
+                },
+                {
+                    "min_row": 285,
+                    "min_col": 576,
+                    "max_row": 400,
+                    "max_col": 756
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 018.png. Number of anomalies: 2, Size of anomalies: 90259 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "017.png",
+            "num_anomalies": 2,
+            "size_anomalies": 184132,
+            "coordinates": [
+                {
+                    "min_row": 66,
+                    "min_col": 115,
+                    "max_row": 762,
+                    "max_col": 706
+                },
+                {
+                    "min_row": 279,
+                    "min_col": 610,
+                    "max_row": 530,
+                    "max_col": 853
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 017.png. Number of anomalies: 2, Size of anomalies: 184132 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "008.png",
+            "num_anomalies": 1,
+            "size_anomalies": 92979,
+            "coordinates": [
+                {
+                    "min_row": 108,
+                    "min_col": 262,
+                    "max_row": 413,
+                    "max_col": 747
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 008.png. Number of anomalies: 1, Size of anomalies: 92979 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "005.png",
+            "num_anomalies": 1,
+            "size_anomalies": 115246,
+            "coordinates": [
+                {
+                    "min_row": 327,
+                    "min_col": 79,
+                    "max_row": 839,
+                    "max_col": 392
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 005.png. Number of anomalies: 1, Size of anomalies: 115246 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "013.png",
+            "num_anomalies": 1,
+            "size_anomalies": 194610,
+            "coordinates": [
+                {
+                    "min_row": 272,
+                    "min_col": 71,
+                    "max_row": 946,
+                    "max_col": 691
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 013.png. Number of anomalies: 1, Size of anomalies: 194610 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "023.png",
+            "num_anomalies": 1,
+            "size_anomalies": 102869,
+            "coordinates": [
+                {
+                    "min_row": 460,
+                    "min_col": 120,
+                    "max_row": 878,
+                    "max_col": 637
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 023.png. Number of anomalies: 1, Size of anomalies: 102869 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "019.png",
+            "num_anomalies": 1,
+            "size_anomalies": 73386,
+            "coordinates": [
+                {
+                    "min_row": 560,
+                    "min_col": 237,
+                    "max_row": 814,
+                    "max_col": 746
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 019.png. Number of anomalies: 1, Size of anomalies: 73386 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "021.png",
+            "num_anomalies": 2,
+            "size_anomalies": 82053,
+            "coordinates": [
+                {
+                    "min_row": 145,
+                    "min_col": 252,
+                    "max_row": 436,
+                    "max_col": 719
+                },
+                {
+                    "min_row": 216,
+                    "min_col": 632,
+                    "max_row": 414,
+                    "max_col": 768
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 021.png. Number of anomalies: 2, Size of anomalies: 82053 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "027.png",
+            "num_anomalies": 5,
+            "size_anomalies": 26256,
+            "coordinates": [
+                {
+                    "min_row": 246,
+                    "min_col": 384,
+                    "max_row": 420,
+                    "max_col": 594
+                },
+                {
+                    "min_row": 295,
+                    "min_col": 707,
+                    "max_row": 406,
+                    "max_col": 766
+                },
+                {
+                    "min_row": 415,
+                    "min_col": 159,
+                    "max_row": 554,
+                    "max_col": 303
+                },
+                {
+                    "min_row": 502,
+                    "min_col": 779,
+                    "max_row": 667,
+                    "max_col": 815
+                },
+                {
+                    "min_row": 682,
+                    "min_col": 582,
+                    "max_row": 809,
+                    "max_col": 637
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 027.png. Number of anomalies: 5, Size of anomalies: 26256 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "001.png",
+            "num_anomalies": 1,
+            "size_anomalies": 124778,
+            "coordinates": [
+                {
+                    "min_row": 353,
+                    "min_col": 28,
+                    "max_row": 931,
+                    "max_col": 626
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 001.png. Number of anomalies: 1, Size of anomalies: 124778 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "012.png",
+            "num_anomalies": 1,
+            "size_anomalies": 214706,
+            "coordinates": [
+                {
+                    "min_row": 81,
+                    "min_col": 37,
+                    "max_row": 797,
+                    "max_col": 607
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 012.png. Number of anomalies: 1, Size of anomalies: 214706 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "016.png",
+            "num_anomalies": 2,
+            "size_anomalies": 180591,
+            "coordinates": [
+                {
+                    "min_row": 155,
+                    "min_col": 182,
+                    "max_row": 479,
+                    "max_col": 616
+                },
+                {
+                    "min_row": 324,
+                    "min_col": 545,
+                    "max_row": 832,
+                    "max_col": 914
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 016.png. Number of anomalies: 2, Size of anomalies: 180591 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "007.png",
+            "num_anomalies": 1,
+            "size_anomalies": 76088,
+            "coordinates": [
+                {
+                    "min_row": 114,
+                    "min_col": 498,
+                    "max_row": 574,
+                    "max_col": 875
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 007.png. Number of anomalies: 1, Size of anomalies: 76088 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "010.png",
+            "num_anomalies": 2,
+            "size_anomalies": 173502,
+            "coordinates": [
+                {
+                    "min_row": 239,
+                    "min_col": 554,
+                    "max_row": 423,
+                    "max_col": 668
+                },
+                {
+                    "min_row": 288,
+                    "min_col": 337,
+                    "max_row": 917,
+                    "max_col": 938
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 010.png. Number of anomalies: 2, Size of anomalies: 173502 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "030.png",
+            "num_anomalies": 3,
+            "size_anomalies": 130243,
+            "coordinates": [
+                {
+                    "min_row": 128,
+                    "min_col": 368,
+                    "max_row": 334,
+                    "max_col": 643
+                },
+                {
+                    "min_row": 232,
+                    "min_col": 597,
+                    "max_row": 438,
+                    "max_col": 788
+                },
+                {
+                    "min_row": 491,
+                    "min_col": 230,
+                    "max_row": 925,
+                    "max_col": 661
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 030.png. Number of anomalies: 3, Size of anomalies: 130243 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "011.png",
+            "num_anomalies": 1,
+            "size_anomalies": 171226,
+            "coordinates": [
+                {
+                    "min_row": 61,
+                    "min_col": 268,
+                    "max_row": 685,
+                    "max_col": 904
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 011.png. Number of anomalies: 1, Size of anomalies: 171226 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "022.png",
+            "num_anomalies": 1,
+            "size_anomalies": 100441,
+            "coordinates": [
+                {
+                    "min_row": 535,
+                    "min_col": 191,
+                    "max_row": 881,
+                    "max_col": 713
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 022.png. Number of anomalies: 1, Size of anomalies: 100441 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "015.png",
+            "num_anomalies": 2,
+            "size_anomalies": 157365,
+            "coordinates": [
+                {
+                    "min_row": 141,
+                    "min_col": 437,
+                    "max_row": 429,
+                    "max_col": 644
+                },
+                {
+                    "min_row": 231,
+                    "min_col": 268,
+                    "max_row": 833,
+                    "max_col": 821
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 015.png. Number of anomalies: 2, Size of anomalies: 157365 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "024.png",
+            "num_anomalies": 2,
+            "size_anomalies": 74750,
+            "coordinates": [
+                {
+                    "min_row": 120,
+                    "min_col": 483,
+                    "max_row": 417,
+                    "max_col": 699
+                },
+                {
+                    "min_row": 234,
+                    "min_col": 587,
+                    "max_row": 506,
+                    "max_col": 905
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 024.png. Number of anomalies: 2, Size of anomalies: 74750 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "032.png",
+            "num_anomalies": 3,
+            "size_anomalies": 113549,
+            "coordinates": [
+                {
+                    "min_row": 108,
+                    "min_col": 344,
+                    "max_row": 419,
+                    "max_col": 612
+                },
+                {
+                    "min_row": 286,
+                    "min_col": 536,
+                    "max_row": 498,
+                    "max_col": 754
+                },
+                {
+                    "min_row": 593,
+                    "min_col": 232,
+                    "max_row": 867,
+                    "max_col": 650
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 032.png. Number of anomalies: 3, Size of anomalies: 113549 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "028.png",
+            "num_anomalies": 5,
+            "size_anomalies": 26476,
+            "coordinates": [
+                {
+                    "min_row": 216,
+                    "min_col": 495,
+                    "max_row": 311,
+                    "max_col": 587
+                },
+                {
+                    "min_row": 305,
+                    "min_col": 316,
+                    "max_row": 565,
+                    "max_col": 420
+                },
+                {
+                    "min_row": 311,
+                    "min_col": 691,
+                    "max_row": 432,
+                    "max_col": 801
+                },
+                {
+                    "min_row": 553,
+                    "min_col": 719,
+                    "max_row": 665,
+                    "max_col": 787
+                },
+                {
+                    "min_row": 718,
+                    "min_col": 243,
+                    "max_row": 817,
+                    "max_col": 430
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 028.png. Number of anomalies: 5, Size of anomalies: 26476 pixels."
+        },
+        {
+            "class": "metal_plate",
+            "anomaly": "scratches",
+            "image": "025.png",
+            "num_anomalies": 5,
+            "size_anomalies": 21996,
+            "coordinates": [
+                {
+                    "min_row": 312,
+                    "min_col": 700,
+                    "max_row": 400,
+                    "max_col": 819
+                },
+                {
+                    "min_row": 324,
+                    "min_col": 377,
+                    "max_row": 407,
+                    "max_col": 427
+                },
+                {
+                    "min_row": 493,
+                    "min_col": 655,
+                    "max_row": 727,
+                    "max_col": 722
+                },
+                {
+                    "min_row": 503,
+                    "min_col": 284,
+                    "max_row": 662,
+                    "max_col": 371
+                },
+                {
+                    "min_row": 687,
+                    "min_col": 467,
+                    "max_row": 798,
+                    "max_col": 539
+                }
+            ],
+            "description": "Anomaly of type 'scratches' found in metal_plate images. Image name: 025.png. Number of anomalies: 5, Size of anomalies: 21996 pixels."
+        }
+    ]
+}
